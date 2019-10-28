@@ -1,0 +1,4 @@
+PatientKey	First Name	Last Name	Age	Zip
+101	John      	McClane   	50	10035
+103	Tyrion    	Lannister 	65	10002
+104	Sarah     	Connor    	67	10067

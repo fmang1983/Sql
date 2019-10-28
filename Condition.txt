@@ -1,0 +1,5 @@
+Condition	Drugkey
+Diabetes	100089    
+Diabetes	100090    
+Asthma	200067    
+Asthma	200203    

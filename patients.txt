@@ -1,0 +1,4 @@
+PatientKey	Control
+101	0
+102	1
+103	0
